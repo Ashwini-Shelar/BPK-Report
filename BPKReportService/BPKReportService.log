@@ -1,0 +1,15 @@
+"2018-12-29 17:18:53 [main] INFO  c.l.b.BpkReportServiceApplicationTests - Starting BpkReportServiceApplicationTests on DESKTOP-L6QCO9G with PID 9332 (started by Ashwini_2 in C:\Users\Ashwini_2\loginext\git\BPKReportService)
+""2018-12-29 17:18:53 [main] INFO  c.l.b.BpkReportServiceApplicationTests - No active profile set, falling back to default profiles: default
+""2018-12-29 17:18:56 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2018-12-29 17:18:56 [main] INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+""2018-12-29 17:18:56 [main] INFO  c.l.b.BpkReportServiceApplicationTests - Started BpkReportServiceApplicationTests in 3.529 seconds (JVM running for 4.661)
+""2018-12-29 17:18:57 [Thread-2] INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+""2018-12-29 17:18:57 [Thread-2] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2018-12-29 17:20:59 [main] INFO  c.l.b.BpkReportServiceApplicationTests - Starting BpkReportServiceApplicationTests on DESKTOP-L6QCO9G with PID 2228 (started by Ashwini_2 in C:\Users\Ashwini_2\loginext\git\BPKReportService)
+""2018-12-29 17:20:59 [main] INFO  c.l.b.BpkReportServiceApplicationTests - No active profile set, falling back to default profiles: default
+""2018-12-29 17:21:01 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2018-12-29 17:21:02 [main] INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+""2018-12-29 17:21:02 [main] INFO  c.l.b.BpkReportServiceApplicationTests - Started BpkReportServiceApplicationTests in 3.449 seconds (JVM running for 4.666)
+""2018-12-29 17:21:03 [Thread-2] INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+""2018-12-29 17:21:03 [Thread-2] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+"
